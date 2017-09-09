@@ -23,5 +23,14 @@ sleep and have good dream(s).
 9. Click on 'Type a message' input div (so that it achieves focus)
 10. See the magic :smiling_imp:
 
+
+#### To see working demo on youtube watch this video:
+* https://youtu.be/-VvcXdztpYU
+
+#### Screenshots (Whatsapp side navigation bar is hidden)
+
+1. Using Java (Working)- ![Working](./screenshots/whatsapp-working.png) 
+2. Using Javascript (Not working)- ![Not working](./screenshots/whatsapp-not-working.png) 
+
 ### Hang on!! Want to read the full story??
 
