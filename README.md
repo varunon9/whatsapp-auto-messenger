@@ -30,7 +30,20 @@ sleep and have good dream(s).
 #### Screenshots (Whatsapp side navigation bar is hidden)
 
 1. Using Java (Working)- ![Working](./screenshots/whatsapp-working.png) 
+
 2. Using Javascript (Not working)- ![Not working](./screenshots/whatsapp-not-working.png) 
 
-### Hang on!! Want to read the full story??
+### How did I make it
+
+We can send whatsapp message from Android app or from whatsapp web. Making an automatic-message-sender Android app seemed
+a lot of work to me. So I chose second way :relieved: . Initially I thought writing some javascript code in browser console
+will do the work but I got stuck in middle. Idea is to simulate 'message-typing' and 'sending' like real user on WhatsApp
+Web. To see this approach please see whatsapp.js file. If you get it working please do ping me :grin:
+
+Since all I had to do is simulation, I can also do it on OS Level. I chose Java for it. I used ` java.awt.Robot` class 
+for this purpose and this was my 2nd working approach. See Video to feel it.
+
+#### What's next?
+
+You can make a chatbot which will be able to respond to incoming messages wisely.
 
