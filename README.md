@@ -47,3 +47,9 @@ for this purpose and this was my 2nd working approach. See Video to feel it.
 
 You can make a chatbot which will be able to respond to incoming messages wisely.
 
+#### Update
+
+Whatsapp (Facebook) has recently released (02 August 2018) official support for Chat Integration via Whatsapp Business API. Please visit-
+1. https://www.whatsapp.com/business/api
+2. https://www.facebook.com/business/m/whatsapp/business-api
+
